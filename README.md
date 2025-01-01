@@ -10,9 +10,6 @@ AI Meeting Summarization is a tool that uses advanced AI models to transcribe au
 - **Command-Line Interface**: Simple CLI for easy operation, with minimal setup.
 - **Quick Setup**: Ready-to-use with a straightforward installation process.
 
-## Screenshots
-
-Here’s how the tool works (if applicable, add your own screenshots from the app):
 
 ## Setup Instructions
 
