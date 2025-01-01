@@ -14,12 +14,6 @@ AI Meeting Summarization is a tool that uses advanced AI models to transcribe au
 
 Here’s how the tool works (if applicable, add your own screenshots from the app):
 
-![Screenshot](https://via.placeholder.com/600x400?text=Meeting+Summarization+Tool)
-
-*Above: Screenshot of the application in action (upload audio and generate a summary).*
-
----
-
 ## Setup Instructions
 
 To get the application running on your local machine, follow these steps:
